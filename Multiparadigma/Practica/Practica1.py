@@ -97,7 +97,7 @@
 # #if opcion == 1:
 #     #print(f'{date.today():%Y-%m-%d}')
 # #elif opcion == 2:
-#     #print(f'{date.today():%d-%m-%Y}')
+#     #print(f'{date.today():%m-%d-%Y}')
 # #else:
 #     #print("Opción no válida")
 
