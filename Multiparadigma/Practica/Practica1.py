@@ -158,7 +158,7 @@
 # #         else:
 # #             for obj in ListaUsuarios:
 # #                 if obj._usuario == usuario and obj._contraseña == contraseña:
-# #                       print(obj+"\n")
+# #                       print(f"{obj}\n")
 # #                       opcion = 0
 # #                       break
 # #                 else:
@@ -217,7 +217,7 @@
 #                            for objetos in ListaUsuarios:
 #                                 print(objetos)
 #                       else:
-#                           print(obj+"\n")
+#                           print(f"{obj}\n")
 #                           opcion = 0
 #                           break
 #                 else:
