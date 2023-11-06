@@ -1,0 +1,2 @@
+Héctor Samuel Machado Aguilar: Flask
+Eleazar Noel Cabello Sanchez: Psycopg
